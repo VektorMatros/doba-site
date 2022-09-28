@@ -52,13 +52,13 @@
 
 				               	<!-- FOOTER LOGO -->
 <center>
-<div><a href="https://www.dobovo.com/ru/днепропетровск-квартиры-посуточно/белоснежная-квартира-рядом-с-центром-25565/отзывы-клиентов.html#other-properties-reviews" target="_blank"><img style="height: 40px; margin-top: 12px; opacity: 0.6;" src="https://irpin.doba.in.ua/wp-content/uploads/2017/10/dobovolog.png" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"></a></div><div style="font-size: 11px;"><a href="https://www.dobovo.com/ru/днепропетровск-квартиры-посуточно/белоснежная-квартира-рядом-с-центром-25565/отзывы-клиентов.html#other-properties-reviews" target="_blank">ссылка на отзывы</a></div></center>
+<div><a href="#" target="_blank"><img style="height: 40px; margin-top: 12px; opacity: 0.6;" src="https://irpin.doba.in.ua/wp-content/uploads/2017/10/dobovolog.png" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"></a></div><div style="font-size: 11px;"><a href="#" target="_blank">ссылка на отзывы</a></div></center>
 		                        <a href="<?php echo home_url(); ?>">
 										<?php
 												if( function_exists( 'ot_get_option' ))
 												{
 													?>
-							                        <img class="logo-footer" src="<?php echo ot_get_option('footer_logo' ); ?>" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('name'); ?>"/>
+							                        
 													<?php
 												}
 										?>
